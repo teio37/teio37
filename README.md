@@ -12,5 +12,8 @@
 - ⚡ Fun fact: Sou o motor ista mas rapido da re gion...
 --
 ---
-##Minhas estatiscas:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teio37)](https://github.com/teio37/github-readme-stats)
+## Minhas estatiscas:  
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=teio37&show_icons=true&theme=synthwave)
+## Tecnologias que mais ultilizo  
+
